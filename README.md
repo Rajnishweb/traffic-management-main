@@ -8,7 +8,7 @@ Requirements
 . YOLOv5
 
 Installation
-1. Clone this repository: https://github.com/amarmurmu001/traffic-management.git  
+1. Clone this repository: https://github.com/Rajnishweb/traffic-management-main  
 2. Install the required dependencies: OpenCV and PyTorch 
 3. Download the YOLOv5 model weights from here, and place them in the project directory.
 
